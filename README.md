@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MikeFerko
 - 👀 I’m interested in Machine Learning/Artificial Intelligence, Image Processing, Signal Processing, Computer Vision, Telecommunications, Software Design, Data Science, embedded systems, and Power Electronics.
-- 🌱 I’m currently learning Pattern Recognitition, Algorithm Design and Advanced Power Systems
-- 💞️ I’m looking to collaborate on Machine Learning, supercomputing, and software implementation.
+- 🌱 I’m currently developing a data comparison library, and Graph Representation Learning in a REST API framework.
 - 📫 How to reach me: 
   - Email: mike.w.ferko@gmail.com
+  - work Email: MFerko@humana.com
   - Linkedin: https://www.linkedin.com/in/michael-ferko-24811997/
 
 - 💼 My Recent Projects Include: 
