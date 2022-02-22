@@ -1,15 +1,13 @@
-- 👋 Hi, I’m @MikeFerko
-- 👀 I’m interested in Machine Learning/Artificial Intelligence, Image Processing, Signal Processing, Computer Vision, Telecommunications, Software Design, Data Science, embedded systems, and Power Electronics.
-- 🌱 I’m currently developing a data comparison library, and Graph Representation Learning in a REST API framework.
-- 📫 How to reach me: 
+- Github: @MikeFerko
+- Twitter: @MikeFerko_
+- How to Reach me: 
   - Email: mike.w.ferko@gmail.com
-  - work Email: MFerko@humana.com
-  - Linkedin: https://www.linkedin.com/in/michael-ferko-24811997/
+
 
 - 💼 My Recent Projects Include: 
 
   - Research paper ["Reinforcement Learning for V2V Communication"](https://github.com/MichaelFerko/Deep-Reinforcement-Learning-for-V2V-Communication/blob/main/Distributed%20Deep%20Reinforcement%20Learning%20for%20V2V%20Communication.pdf)
-  In which I explain the robustness of q-learning for safety message communication between clusters of moving cars, the recent advancements and the direction q learning will take to achieve self-driving cars.
+
 
   - 4 Machine Learning (ML) projects:
     - a) Parametric Regression Modeling of House Prices in Taipei Taiwan: [Jupyter Notebook 1](https://github.com/MichaelFerko/Taipei-Taiwan-Regression-Modeling-of-Housing-Prices/blob/main/LAB1-Regression_Notebook.ipynb), [Jupyter Notebook 2](https://github.com/MichaelFerko/Taipei-Taiwan-Regression-Modeling-of-Housing-Prices/blob/main/Lab%201%20Assignment.ipynb)
