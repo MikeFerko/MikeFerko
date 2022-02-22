@@ -1,5 +1,3 @@
-- Github: @MikeFerko
-
 - How to Reach me: 
   - Email: mike.w.ferko@gmail.com
   - Twitter: @MikeFerko_
