@@ -1,12 +1,20 @@
 - Github: @MikeFerko
-- Twitter: @MikeFerko_
+
 - How to Reach me: 
   - Email: mike.w.ferko@gmail.com
-
+  - Twitter: @MikeFerko_
+  - Facebook: 
 
 - 💼 My Recent Projects Include: 
 
-  - Research paper ["Reinforcement Learning for V2V Communication"](https://github.com/MichaelFerko/Deep-Reinforcement-Learning-for-V2V-Communication/blob/main/Distributed%20Deep%20Reinforcement%20Learning%20for%20V2V%20Communication.pdf)
+  - Research paper ["Reinforcement Learning for V2V Communication"](https://github.com/MikeFerko/Deep-Reinforcement-Learning-for-V2V-Communication/blob/main/Distributed%20Deep%20Reinforcement%20Learning%20for%20V2V%20Communication.pdf)
+ 
+ In which I explore an artifically intelligent form of electronic communications between a vehicle and everything using:
+  - Markov Decision Processeses (MDP)
+  - Deep Reinforcement Learning Framework (DRL a.k.a. DQL)
+  - Orthogonal Frequency Division Multiplexing (OFDM)
+  - State-of-the-Art DQN C51 Rainbow
+  - Google Deep Mind's progress in quantile regression
 
 
   - 4 Machine Learning (ML) projects:
