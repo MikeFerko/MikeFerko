@@ -16,7 +16,9 @@
   - State-of-the-Art DQN C51 Rainbow
   - Google Deep Mind's progress in quantile regression
 
-!["structureOfVehiclularComunicationsNetwork"](https://github.com/MikeFerko/MikeFerko/blob/main/structureOfVehiclularComunicationsNetwork.png)
+<p align="center">
+  <img src="https://github.com/MikeFerko/MikeFerko/blob/main/structureOfVehiclularComunicationsNetwork.png" />
+</p>
 
   - 4 Machine Learning (ML) projects:
     - a) Parametric Regression Modeling of House Prices in Taipei Taiwan: [Jupyter Notebook 1](https://github.com/MichaelFerko/Taipei-Taiwan-Regression-Modeling-of-Housing-Prices/blob/main/LAB1-Regression_Notebook.ipynb), [Jupyter Notebook 2](https://github.com/MichaelFerko/Taipei-Taiwan-Regression-Modeling-of-Housing-Prices/blob/main/Lab%201%20Assignment.ipynb)
