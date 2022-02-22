@@ -14,7 +14,7 @@
     - Deep Reinforcement Learning Framework (DRL a.k.a. DQL)
     - Orthogonal Frequency Division Multiplexing (OFDM)
     - State-of-the-Art DQN C51 Rainbow
-    - Google Deep Mind's progress in quantile regression
+    - Google Deep Mind's progress in Quantile Regression
 
 <p align="center">
   <img src="https://github.com/MikeFerko/MikeFerko/blob/main/structureOfVehiclularComunicationsNetwork.png" 
@@ -22,12 +22,16 @@
        height="35%" />
 </p>
 
-  - 4 Machine Learning (ML) projects:
-    - a) Parametric Regression Modeling of House Prices in Taipei Taiwan: [Jupyter Notebook 1](https://github.com/MichaelFerko/Taipei-Taiwan-Regression-Modeling-of-Housing-Prices/blob/main/LAB1-Regression_Notebook.ipynb), [Jupyter Notebook 2](https://github.com/MichaelFerko/Taipei-Taiwan-Regression-Modeling-of-Housing-Prices/blob/main/Lab%201%20Assignment.ipynb)
-    - b) Classification of Fashion MNIST Image Data Set: [Jupyter Notebook](https://github.com/MichaelFerko/Classification-of-Fashion-MNIST/blob/main/Lab%202%20Assignment%20Notebook.ipynb) 
+  - Machine Learning (ML) projects:
+
+    - 1) Parametric Regression Modeling of House Prices in Taipei Taiwan: [Jupyter Notebook 1](https://github.com/MichaelFerko/Taipei-Taiwan-Regression-Modeling-of-Housing-Prices/blob/main/LAB1-Regression_Notebook.ipynb), [Jupyter Notebook 2](https://github.com/MichaelFerko/Taipei-Taiwan-Regression-Modeling-of-Housing-Prices/blob/main/Lab%201%20Assignment.ipynb)
+
+
+
+    - 2) Classification of Fashion MNIST Image Data Set: [Jupyter Notebook](https://github.com/MichaelFerko/Classification-of-Fashion-MNIST/blob/main/Lab%202%20Assignment%20Notebook.ipynb) 
       - Classification of MNIST Handwritten Digits Image Data Set: [Jupyter Notebook](https://github.com/MichaelFerko/Classification-of-Fashion-MNIST/blob/main/LAB-2-Classification.ipynb)    
-    - c) Autoencoders for compression and denoising of MNIST Handwritten Digits Image Data Set: [Jupyter Notebook](https://github.com/MichaelFerko/Auto-encoders-Compression-Denoising-MNIST-Digits-0-9/blob/main/LAB3-Autoencoders_for_Compression_and_Denoising_final.ipynb) 
-    - d) Classification of CIFAR-10/100 with Convolutional Neural Networks: [Jupyter Notebook](https://github.com/MichaelFerko/Classification-of-CIFAR-10-and-100-with-Convolutional-Neural-Networks/blob/main/Copy%20of%20LAB%204-Classification%20with%20CNN.ipynb)
+    - 3) Autoencoders for compression and denoising of MNIST Handwritten Digits Image Data Set: [Jupyter Notebook](https://github.com/MichaelFerko/Auto-encoders-Compression-Denoising-MNIST-Digits-0-9/blob/main/LAB3-Autoencoders_for_Compression_and_Denoising_final.ipynb) 
+    - 4) Classification of CIFAR-10/100 with Convolutional Neural Networks: [Jupyter Notebook](https://github.com/MichaelFerko/Classification-of-CIFAR-10-and-100-with-Convolutional-Neural-Networks/blob/main/Copy%20of%20LAB%204-Classification%20with%20CNN.ipynb)
 
   - 4 Pattern Recognition (From Scratch) projects:
     - a) Bayesian Binary Classification on Multidimensional Multivariate Distributions: [Paper](https://github.com/MichaelFerko/Bayesian_Classification_on_parametric_distributions/blob/main/Bayesian_Classification_on_parametric_distributions.pdf), [Jupyter Notebook](https://github.com/MichaelFerko/Bayesian_Classification_on_parametric_distributions/blob/main/Bayesian_Classification_on_parametric_distributions.ipynb)
