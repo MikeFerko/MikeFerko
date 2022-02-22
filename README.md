@@ -9,13 +9,16 @@
 
   - Research paper ["Reinforcement Learning for V2V Communication"](https://github.com/MikeFerko/Deep-Reinforcement-Learning-for-V2V-Communication/blob/main/Distributed%20Deep%20Reinforcement%20Learning%20for%20V2V%20Communication.pdf)
  
- In which I explore an artifically intelligent form of electronic communications between a vehicle and everything using:
-  - Markov Decision Processeses (MDP)
-  - Deep Reinforcement Learning Framework (DRL a.k.a. DQL)
-  - Orthogonal Frequency Division Multiplexing (OFDM)
-  - State-of-the-Art DQN C51 Rainbow
-  - Google Deep Mind's progress in quantile regression
+  - In which I explore an artifically intelligent form of electronic communications between a vehicle and everything using:
+    - Markov Decision Processeses (MDP)
+    - Deep Reinforcement Learning Framework (DRL a.k.a. DQL)
+    - Orthogonal Frequency Division Multiplexing (OFDM)
+    - State-of-the-Art DQN C51 Rainbow
+    - Google Deep Mind's progress in quantile regression
 
+<p align="center">
+  <img src="https://github.com/MikeFerko/MikeFerko/blob/main/structureOfVehiclularComunicationsNetwork.png" />
+</p>
 
   - 4 Machine Learning (ML) projects:
     - a) Parametric Regression Modeling of House Prices in Taipei Taiwan: [Jupyter Notebook 1](https://github.com/MichaelFerko/Taipei-Taiwan-Regression-Modeling-of-Housing-Prices/blob/main/LAB1-Regression_Notebook.ipynb), [Jupyter Notebook 2](https://github.com/MichaelFerko/Taipei-Taiwan-Regression-Modeling-of-Housing-Prices/blob/main/Lab%201%20Assignment.ipynb)
