@@ -18,8 +18,8 @@
 
 <p align="center">
   <img src="https://github.com/MikeFerko/MikeFerko/blob/main/structureOfVehiclularComunicationsNetwork.png" 
-       width="626"
-       height="391" />
+       width="50%"
+       height="50%" />
 </p>
 
   - 4 Machine Learning (ML) projects:
