@@ -7,11 +7,11 @@
   - Research paper [Reinforcement Learning for V2V Communication](https://github.com/MikeFerko/Deep-Reinforcement-Learning-for-V2V-Communication/blob/main/Distributed%20Deep%20Reinforcement%20Learning%20for%20V2V%20Communication.pdf)
  
     - In which I explore an artifically intelligent form of electronic communications between a vehicle and everything using:
-      - Markov Decision Processeses (MDP)
-      - Deep Reinforcement Learning Framework (DRL a.k.a. DQL)
-      - Orthogonal Frequency Division Multiplexing (OFDM)
-      - State-of-the-Art DQN C51 Rainbow
-      - Google Deep Mind's progress in Quantile Regression
+      - [Markov Decision Processeses (MDP)](https://youtu.be/9g32v7bK3Co)
+      - [Deep Reinforcement Learning Framework (DRL a.k.a. DQL)](https://ieeexplore.ieee.org/document/8450518)
+      - [Orthogonal Frequency Division Multiplexing (OFDM)](https://ieeexplore.ieee.org/document/8052521)
+      - [State-of-the-Art DQN C51 Rainbow](https://arxiv.org/abs/1710.02298)
+      - [Google Deep Mind's progress in Quantile Regression](https://ojs.aaai.org/index.php/AAAI/article/view/11791)
 
         <p align="center">
           <img src="https://github.com/MikeFerko/MikeFerko/blob/main/structureOfVehiclularComunicationsNetwork.png" 
