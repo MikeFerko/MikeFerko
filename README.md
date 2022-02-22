@@ -1,6 +1,6 @@
 - How to Reach me: 
   - Email: mike.w.ferko@gmail.com
-  - Twitter: @MikeFerko_
+  - Twitter: !["@MikeFerko_"](https://twitter.com/MikeFerko_)
 
 - 💼 My Recent Projects Include: 
 
