@@ -26,6 +26,13 @@
       - Part1: 
         - Algorithm: Regression with Multilayer Perceptrons (MLP)
           - 1) Generate a data set with the simple Saddle Point Function: 
+            <p align="center">
+              <a href="https://github.com/MikeFerko/Deep-Reinforcement-Learning-for-V2V-Communication/blob/main/Distributed%20Deep%20Reinforcement%20Learning%20for%20V2V%20Communication.pdf">
+                 <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/structureOfVehiclularComunicationsNetwork.png"
+                 width="45%" height="45%">
+              </a>
+              <br> Structure of Vehiclular Communicaitons Network
+            </p>
              h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x 
       - 
 
