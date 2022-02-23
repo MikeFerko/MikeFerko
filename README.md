@@ -21,9 +21,9 @@
 
   - Machine Learning Projects:
 
-    - 1) [Parametric Regression Modeling of House Prices in Taipei Taiwan](https://github.com/MikeFerko/Taipei-Taiwan-Regression-Modeling-of-Housing-Prices)
+    - a) [Parametric Regression Modeling of House Prices in Taipei Taiwan](https://github.com/MikeFerko/Taipei-Taiwan-Regression-Modeling-of-Housing-Prices)
 
-    - 2) Classification of MNIST Handwritten Digits Image Data Set: [Jupyter Notebook](https://github.com/MichaelFerko/Classification-of-Fashion-MNIST/blob/main/LAB-2-Classification.ipynb) 
+    - b) Classification of MNIST Handwritten Digits Image Data Set: [Jupyter Notebook](https://github.com/MichaelFerko/Classification-of-Fashion-MNIST/blob/main/LAB-2-Classification.ipynb) 
 <!-- 
 
       <p align="left">
@@ -32,11 +32,11 @@
              height="35%" img/>
       </p> -->
       
-    - 3) Classification of Fashion MNIST Image Data Set: [Jupyter Notebook](https://github.com/MichaelFerko/Classification-of-Fashion-MNIST/blob/main/Lab%202%20Assignment%20Notebook.ipynb) 
+    - c) Classification of Fashion MNIST Image Data Set: [Jupyter Notebook](https://github.com/MichaelFerko/Classification-of-Fashion-MNIST/blob/main/Lab%202%20Assignment%20Notebook.ipynb) 
       
    
-    - 4) Autoencoders for compression and denoising of MNIST Handwritten Digits Image Data Set: [Jupyter Notebook](https://github.com/MichaelFerko/Auto-encoders-Compression-Denoising-MNIST-Digits-0-9/blob/main/LAB3-Autoencoders_for_Compression_and_Denoising_final.ipynb) 
-    - 5) Classification of CIFAR-10/100 with Convolutional Neural Networks: [Jupyter Notebook](https://github.com/MichaelFerko/Classification-of-CIFAR-10-and-100-with-Convolutional-Neural-Networks/blob/main/Copy%20of%20LAB%204-Classification%20with%20CNN.ipynb)
+    - d) Autoencoders for compression and denoising of MNIST Handwritten Digits Image Data Set: [Jupyter Notebook](https://github.com/MichaelFerko/Auto-encoders-Compression-Denoising-MNIST-Digits-0-9/blob/main/LAB3-Autoencoders_for_Compression_and_Denoising_final.ipynb) 
+    - e) Classification of CIFAR-10/100 with Convolutional Neural Networks: [Jupyter Notebook](https://github.com/MichaelFerko/Classification-of-CIFAR-10-and-100-with-Convolutional-Neural-Networks/blob/main/Copy%20of%20LAB%204-Classification%20with%20CNN.ipynb)
 
   - Pattern Recognition Projects:
     - a) Bayesian Binary Classification on Multidimensional Multivariate Distributions: [Paper](https://github.com/MichaelFerko/Bayesian_Classification_on_parametric_distributions/blob/main/Bayesian_Classification_on_parametric_distributions.pdf), [Jupyter Notebook](https://github.com/MichaelFerko/Bayesian_Classification_on_parametric_distributions/blob/main/Bayesian_Classification_on_parametric_distributions.ipynb)
