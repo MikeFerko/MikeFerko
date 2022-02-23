@@ -14,7 +14,8 @@
       - [Google Deep Mind's progress in Quantile Regression](https://ojs.aaai.org/index.php/AAAI/article/view/11791)
 
         <p align="center">
-          <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/structureOfVehiclularComunicationsNetwork.png" 
+          <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/structureOfVehiclularComunicationsNetwork.png"
+               title="Structure of Vehicular Communications Network"
                width="35%"
                height="35%" img/>
         </p>
@@ -23,12 +24,16 @@
 
     - a) [Parametric Regression Modeling of House Prices in Taipei Taiwan](https://github.com/MikeFerko/Taipei-Taiwan-Regression-Modeling-of-Housing-Prices)
 
-    - b) Classification of MNIST Handwritten Digits Image Data Set: [Jupyter Notebook](https://github.com/MichaelFerko/Classification-of-Fashion-MNIST/blob/main/LAB-2-Classification.ipynb) 
+    - b) [Classification of MNIST 70,000 Handwritten Digits 0-9 Image Data Set](https://github.com/MikeFerko/Classification-of-Fashion-MNIST)
+      - Algorithm: Supervised Categorical Cross Entropy
+        - 1) Train/Test split the 70,000 images into 60,000 and 10,000 images respectively.
+        - 2) vectorize the images by reshaping the images from 28 x 28 pixels to 784 x 1 pixels
 
 
       <p align="left">
   
         <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/encodingHandWrittenDigits.png" 
+             title="Encoding Handwritten Digits Images as Binary "
              width="25%"
              height="25%" img/>
   
