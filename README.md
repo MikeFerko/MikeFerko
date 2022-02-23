@@ -42,7 +42,7 @@ How to Reach me:
 <!-- MLP Section -->
        <div>
        <details>
-         <summary>Regression with Multiple Linear Perceptron (MLP) Modeling of the Saddle and Ackley Functions</summary>
+         <summary>1. Regression with Multiple Linear Perceptron (MLP) Modeling of the Saddle and Ackley Functions</summary>
          <li>MLP Machine Learning Algorithm:</li>
           <ol type="1">
             <li>Generate a data set with the simple Saddle Point or the Ackley Function</li>
@@ -58,6 +58,11 @@ How to Reach me:
             <ul>
               <li><a href="https://en.wikipedia.org/wiki/Stochastic_gradient_descent">Stochastic Gradient Descent optimizer</a></li>
               <ul>
+                <li>Neural Network Architecture:</li>
+                <ul>
+                  <li>Input Layer = 10 neurons with a sigmoid activation function</li>
+                  <li>Output Layer = 1 neuron</li>
+                </ul>
                 <li>Learing Rate = 0.1</li>
                 <li>Exponential Decay Factor = 0</li>
                 <li>Momentum = 0.1</li>
@@ -109,7 +114,7 @@ How to Reach me:
 <!-- Parametric Regression in Taipei Taiwan Section -->
    <div>
    <details>
-     <summary>Real Estate Evaluation of housing prices in Taipei Taiwan</summary>
+     <summary>2. Real Estate Evaluation of housing prices in Taipei Taiwan</summary>
      <p>
        <ul>
          <li>We are using the same sequential MLP model used for the Saddle Point and Ackley Function preditctions.</li>
@@ -142,6 +147,11 @@ How to Reach me:
           <li>Normalise the scaled features</li>
           <li>Regression MLP Model Parameters:</li>
           <ul>
+            <li>Neural Network Architecture:</li>
+            <ul>
+              <li>Input Layer = 10 neurons with a sigmoid activation function</li>
+              <li>Output Layer = 1 neuron</li>
+            </ul>
             <li><a href="https://en.wikipedia.org/wiki/Stochastic_gradient_descent">Stochastic Gradient Descent optimizer</a></li>
             <ul>
               <li>Learing Rate = 0.1</li>
@@ -169,14 +179,63 @@ How to Reach me:
     <a href="https://drive.google.com/file/d/1i49EBOacHkSxA84ghQZCQ3JSvItULceT/view?usp=sharing">
     <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/RegressionPrediction.png" width="50%" height="50%">
     </a>
-    <br>Regression MLP Model Loss</br>
+    <br>Regression MLP Predictions</br>
    </p>
      
   </details>
   </div>
 
 <!--  Classification of MNIST 70,000 Handwritten Digits 0-9 Image Data Set -->
-    
+ 
+<div>
+<details>
+ <summary>3. Classification of MNIST 70,000 Handwritten Digits 0-9 Image Data Set</summary>     
+<p>
+  <ul>
+    <li>Categorical Cross Entropy Algorithm:</li>
+    <ol type="1">
+      <li>Load the Modified National Institute of Standards and Technology (MNIST) Handwritten digits 0-9 data set</li>
+      <li>Train/Test split the data at a ratio of 6:1, respectively</li>
+      <li>Reshape the images from 28x28 pixels to 784x1 pixels</li>
+      <li>Normalise the image pixels by dividing by the gray scale image intensity level set L:</li>
+      <p align="center">
+       <a href="https://drive.google.com/file/d/17p5fgVgv836Nup1Jq5vYwrFuBrS3THVM/view?usp=sharing">
+       <img src="https://latex.codecogs.com/gif.latex?L%3D%5B0%2C2%5E%7Bk%7D-1%5D%3B%20k%3D8%20%5Crightarrow%20L%3D%5B0%2C255%5D%3B"></img>
+       </a>
+      </p>
+      <li>Create 10 Categories for the 10 digits 0-9 to be classified</li>
+      <br></br>
+      <p align="center">
+        <a href="https://drive.google.com/file/d/1D7tv0AckARCQMVxbaBTvdb7UxYvrIIPe/view?usp=sharing"><img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/encodingHandWrittenDigits.png" width="50%" height="50%"></img>
+        </a>
+      </p>
+      <br></br>
+      <li>Categorical Cross Entropy (CE) Model Parameters:</li>
+          <ul>
+            <li>Neural Network Architecture:</li>
+            <ul>
+              <li>Input Layer = 10 neurons with a sigmoid activation function</li>
+              <li>Output Layer = 1 neuron</li>
+            </ul>
+            <li><a href="https://en.wikipedia.org/wiki/Stochastic_gradient_descent">Stochastic Gradient Descent optimizer</a></li>
+            <ul>
+              <li>Learing Rate = 0.1</li>
+              <li>Exponential Decay Factor = 0</li>
+              <li>Momentum = 0.1</li>
+             </ul>
+            <li><a href="https://en.wikipedia.org/wiki/Mean_squared_error">Mean Square Error Loss Function</a></li>
+            <li>Train Duration: 50 Epochs</li>
+            <li>Batch Size = 10</li>
+          </ul>
+  </ul>
+</p>
+<p>
+  next stuff
+</p>
+     
+</details>
+</div>
+   
     
    </details>
 </div>
