@@ -54,7 +54,16 @@ How to Reach me:
               </ul>
             <li>Add uniform random noise and visualize the 3D meshgrid</li>
             <li>Reshape the generated data to be a tensor input vector (shape will be: sample rows by feature columns)</li>
-            <li>Create and Train/Test a sequential MLP model</li></li>
+            <li>Regression MLP Model Parameters:</li>
+            <ul>
+              <li><a href="https://en.wikipedia.org/wiki/Stochastic_gradient_descent">Stochastic Gradient Descent optimizer</a></li>
+              <ul>
+                <li>Learing Rate = 0.1</li>
+                <li>Exponential Decay Factor = 0</li>
+                <li>Momentum = 0.1</li>
+               </ul>
+              <li><a href="https://en.wikipedia.org/wiki/Mean_squared_error">Mean Square Error Loss Function</a></li>
+            </ul>
             <li>Plot the Results</li>
           </ol>
           <p align="center">
@@ -68,7 +77,7 @@ How to Reach me:
             <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/SaddlePointPredictions.png" width="75%" height="75%">
             </a>
             <br> Results of Saddle Function Predictions </br>
-            <ol style="text-align: center; list-style-position: inside;">
+            <ol>
               <br>Results are shown in the above image Left-to-Right, Top-to-Bottom</br>
               <li>Real vs. Predicted Saddle</li>
               <li>z-x cross section @ y = 2</li>
@@ -92,62 +101,41 @@ How to Reach me:
             </ol>
           </p>
     </details>
-    </div
+    </div>
 
 <!-- Parametric Regression in Taipei Taiwan Section -->
-       <div>
-       <details>
-         <summary></summary>
-         <li>MLP Machine Learning Algorithm:</li>
-          <ol type="1">
-            <li>Generate a data set with the simple Saddle Point or the Ackley Function</li>
-              <ul>
-                <li>Saddle Point:</li>
-                <img src="https://latex.codecogs.com/gif.latex?z%28x%2Cy%29%20%3D%20x%5E%7B2%7D%20&plus;%20y%5E%7B2%7D"></img>
-                <li>Ackley:</li>
-                <img src="https://latex.codecogs.com/gif.latex?z%28x%2Cy%29%20%3D%20-20e%5E%7B%5Cfrac%7B1%7D%7B5%7D%20%5Csqrt%7B%5Cfrac%7B1%7D%7B2%7D%20%28x%5E%7B2%7D%20&plus;%20y%5E%7B2%7D%29%7D%7D%20-%20e%5E%7B%5Cfrac%7B1%7D%7B2%7D%28cos%7B%28%5Cpi%20x%7D%29%20&plus;cos%7B%28%5Cpi%20y%7D%29%29%7D"></img>
-              </ul>
-            <li>Add uniform random noise and visualize the 3D meshgrid</li>
-            <li>Reshape the generated data to be a tensor input vector (shape will be: sample rows by feature columns)</li>
-            <li>Create and Train/Test a sequential MLP model</li></li>
-            <li>Plot the Results</li>
-          </ol>
-          <p align="center">
-            <a href="https://drive.google.com/file/d/17p5fgVgv836Nup1Jq5vYwrFuBrS3THVM/view?usp=sharing">
-            <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/MLPModel.png" width="50%" height="50%">
-            </a>
-            <br>Multiple Linear Perceptron (MLP) Model</br>
-          </p>
-          <p align="center">
-            <a href="https://drive.google.com/file/d/17p5fgVgv836Nup1Jq5vYwrFuBrS3THVM/view?usp=sharing">
-            <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/SaddlePointPredictions.png" width="75%" height="75%">
-            </a>
-            <br> Results of Saddle Function Predictions </br>
-            <ol style="text-align: center; list-style-position: inside;">
-              <br>Results are shown in the above image Left-to-Right, Top-to-Bottom</br>
-              <li>Real vs. Predicted Saddle</li>
-              <li>z-x cross section @ y = 2</li>
-              <li>z-x cross section @ y = 0</li>
-              <li>Model Loss Vs. Epochs</li>
-              <li>Topological Heat Map</li>
-            </ol>
-          </p>
-          <p align="center">
-            <a href="https://drive.google.com/file/d/17p5fgVgv836Nup1Jq5vYwrFuBrS3THVM/view?usp=sharing">
-            <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/AckleyPredictions.png" width="75%" height="75%">
-            </a>
-            <br> Results of Ackley Function Predictions </br>
-            <ol>
-              <br>Results are shown in the above image Left-to-Right, Top-to-Bottom</br>
-              <li>Real vs. Predicted Ackley</li>
-              <li>z-x cross section @ y = 2</li>
-              <li>z-x cross section @ y = 0</li>
-              <li>Model Loss Vs. Epochs</li>
-              <li>Topological Heat Map</li>
-            </ol>
-          </p>
-    </details>
-    </div
+   <div>
+   <details>
+     <summary>Real Estate Evaluation of housing prices in Taipei Taiwan</summary>
+     <p>
+       <ul>
+         <li>We are using the same sequential MLP model used for the Saddle Point and Ackley Function preditctions.</li>
+       </ul>
+     </p>
+     <p align="center">
+       <a href="https://drive.google.com/file/d/17p5fgVgv836Nup1Jq5vYwrFuBrS3THVM/view?usp=sharing">
+       <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/MLPModel.png" width="50%" height="50%">
+       </a>
+       <br>Multiple Linear Perceptron (MLP) Model</br>
+     </p>
+     <p>We will be <a href="https://drive.google.com/file/d/1vAsnXHDkRoNFSS2KrWP39lFF4fS3J43O/view?usp=sharing">examining real estate valuation</a> which will help us understand where people tend to live in a city. The higher the price, the greater the demand to live in the property. Predicting real estate valuation can help urban design and urban policies, as it could help identify what factors have the most impact on property prices. Our aim is to predict real estate value, based on several features.
+     </p>
+     <br></br>
+     <p>
+      <ul>
+        <li>Regression MLP Machine Learning on Taipei Taiwan Algorithm:</li>
+        <ol type="1">
+          <li>Load the Real estate valuation data set</li>
+          <li>Train/Test split the data at a ratio of 80/20, respectively</li>
+          <li></li>
+           
+        </ol>
+      </ul>
+     </p>
+     
+  </details>
+  </div>
+
     
     
    </details>
