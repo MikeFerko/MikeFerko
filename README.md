@@ -16,8 +16,8 @@
         <p align="center">
           <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/structureOfVehiclularComunicationsNetwork.png"
                title="Structure of Vehicular Communications Network"
-               width="35%"
-               height="35%" img/>
+               width="45%"
+               height="45%" img/>
         </p>
 
   - Machine Learning Projects:
