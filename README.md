@@ -6,69 +6,82 @@ How to Reach me:
 
 <!-- This is the V2X Research Seciton -->
 
-<details>
-  <summary>
-    <head>Research: <a href="https://github.com/MikeFerko/Deep-Reinforcement-Learning-for-V2V-Communication">Reinforcement Learning for V2V Communication</a>
-    </head>
-  </summary>
-     <ul>
-       <li>Artifically Intelligent (AI) form of electronic communications between a vehicle and everything (V2X): </li>
-        <ul>
-          <li><a href="https://youtu.be/9g32v7bK3Co">Markov Decision Processeses (MDP)</a>
-          <li><a href="https://ieeexplore.ieee.org/document/8450518">Deep Reinforcement Learning Framework (DRL a.k.a. DQL)</a>
-          <li><a href="https://ieeexplore.ieee.org/document/8052521">Orthogonal Frequency Division Multiplexing (OFDM)</a>
-          <li><a href="https://arxiv.org/abs/1710.02298">State-of-the-Art DQN C51 Rainbow</a>
-          <li><a href="https://ojs.aaai.org/index.php/AAAI/article/view/11791">Google Deep Mind's progress in Quantile Regression</a>
-        </ul>
-  </ul>
-     <p align="center">
-      <a href="https://github.com/MikeFerko/Deep-Reinforcement-Learning-for-V2V-Communication/blob/main/Distributed%20Deep%20Reinforcement%20Learning%20for%20V2V%20Communication.pdf">
-         <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/structureOfVehiclularComunicationsNetwork.png"
-         width="75%" height="75%">
-      </a>
-      <br> Structure of Vehiclular Communicaitons Network
- </p>
-  </details>
+<div class = "dropdown">
+  <details>
+    <summary>
+      <head>Research: <a href="https://github.com/MikeFerko/Deep-Reinforcement-Learning-for-V2V-Communication">Reinforcement Learning for V2V Communication</a>
+      </head>
+    </summary>
+       <ul>
+         <li>Artifically Intelligent (AI) form of electronic communications between a vehicle and everything (V2X): </li>
+          <ul>
+            <li><a href="https://youtu.be/9g32v7bK3Co">Markov Decision Processeses (MDP)</a>
+            <li><a href="https://ieeexplore.ieee.org/document/8450518">Deep Reinforcement Learning Framework (DRL a.k.a. DQL)</a>
+            <li><a href="https://ieeexplore.ieee.org/document/8052521">Orthogonal Frequency Division Multiplexing (OFDM)</a>
+            <li><a href="https://arxiv.org/abs/1710.02298">State-of-the-Art DQN C51 Rainbow</a>
+            <li><a href="https://ojs.aaai.org/index.php/AAAI/article/view/11791">Google Deep Mind's progress in Quantile Regression</a>
+          </ul>
+    </ul>
+       <p align="center">
+        <a href="https://github.com/MikeFerko/Deep-Reinforcement-Learning-for-V2V-Communication/blob/main/Distributed%20Deep%20Reinforcement%20Learning%20for%20V2V%20Communication.pdf">
+           <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/structureOfVehiclularComunicationsNetwork.png"
+           width="75%" height="75%">
+        </a>
+        <br> Structure of Vehiclular Communicaitons Network
+   </p>
+   </details>
+</div>
   
 <!-- This is the Machine Learning Seciton -->
 
-<details>
-  <summary>Machine Learning Projects:</sumamry>
-    <ul>
-      <li><a href="https://github.com/MikeFerko/Taipei-Taiwan-Regression-Modeling-of-Housing-Prices">Multiple Linear Perceptron Modeling of the Saddle and Ackley Functions</a></li>
-        - Algorithm: Regression with Multilayer Perceptrons (MLP)
-          - 1) Generate a data set with the simple Saddle Point or the Ackley Function
-            - Saddle Point: ![z(x,y) = x^{2} + y^{2}](https://latex.codecogs.com/gif.latex?z%28x%2Cy%29%20%3D%20x%5E%7B2%7D%20&plus;%20y%5E%7B2%7D)
-            - Ackley: ![z(x,y) = -20e^{\frac{1}{5} \sqrt{\frac{1}{2} (x^{2} + y^{2})}} - e^{\frac{1}{2}(cos{(\pi x}) +cos{(\pi y}))}](https://latex.codecogs.com/gif.latex?z%28x%2Cy%29%20%3D%20-20e%5E%7B%5Cfrac%7B1%7D%7B5%7D%20%5Csqrt%7B%5Cfrac%7B1%7D%7B2%7D%20%28x%5E%7B2%7D%20&plus;%20y%5E%7B2%7D%29%7D%7D%20-%20e%5E%7B%5Cfrac%7B1%7D%7B2%7D%28cos%7B%28%5Cpi%20x%7D%29%20&plus;cos%7B%28%5Cpi%20y%7D%29%29%7D)
-          - 2) Add uniform random noise and visualize the 3D meshgrid 
-          - 2) Reshape the generated data to be a tensor input vector (shape will be: sample rows by feature columns)
-          - 3) Create and Train/Test a sequential MLP model
-          - 4) Plot the Results
-            
-            <p>
-              <a href="https://drive.google.com/file/d/17p5fgVgv836Nup1Jq5vYwrFuBrS3THVM/view?usp=sharing">
-                 <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/MLPModel.png"
-                 width="75%" height="75%">
-              </a>
-              <br> Multiple Linear Perceptron (MLP) Model </br>
-            </p>
-            
-            <p>
-              <br></br>
-              <a href="https://drive.google.com/file/d/17p5fgVgv836Nup1Jq5vYwrFuBrS3THVM/view?usp=sharing">
-                 <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/SaddlePointPredictions.png"
-                 width="100%" height="100%">
-              </a>
-              <br> Saddle Point Results Left-to-Right, Top-to-Bottom: </br>
-              <ul>
-                    <li>Real vs. Predicted Saddle</li>
-                    <li>z-x cross section @ y = 2</li>
-                    <li>z-x cross section @ y = 0</li>
-                    <li>Model Loss Vs. Epochs</li>
-                    <li>Topological Heat Map</li>
-            </ul>
-            </p>
-            
+<div class = "dropdown">
+  <details>
+      <ul>
+        <sumamry>
+          <a href="https://github.com/MikeFerko/Taipei-Taiwan-Regression-Modeling-of-Housing-Prices">Multiple Linear Perceptron Modeling of the Saddle and Ackley Functions</a>
+        </summary>
+          <ul>
+            <li>Algorithm: Regression with Multilayer Perceptrons (MLP)</li>
+            <ul>
+              <li>Generate a data set with the simple Saddle Point or the Ackley Function</li>
+                <ul>
+                  <li>Saddle Point:</li>
+                    <img src="https://latex.codecogs.com/gif.latex?z%28x%2Cy%29%20%3D%20x%5E%7B2%7D%20&plus;%20y%5E%7B2%7D">
+                    </img>
+                  <li>Ackley:</li> 
+                    <img src="https://latex.codecogs.com/gif.latex?z%28x%2Cy%29%20%3D%20-20e%5E%7B%5Cfrac%7B1%7D%7B5%7D%20%5Csqrt%7B%5Cfrac%7B1%7D%7B2%7D%20%28x%5E%7B2%7D%20&plus;%20y%5E%7B2%7D%29%7D%7D%20-%20e%5E%7B%5Cfrac%7B1%7D%7B2%7D%28cos%7B%28%5Cpi%20x%7D%29%20&plus;cos%7B%28%5Cpi%20y%7D%29%29%7D">
+                    </img>
+            - 2) Add uniform random noise and visualize the 3D meshgrid 
+            - 2) Reshape the generated data to be a tensor input vector (shape will be: sample rows by feature columns)
+            - 3) Create and Train/Test a sequential MLP model
+            - 4) Plot the Results
+
+              <p>
+                <a href="https://drive.google.com/file/d/17p5fgVgv836Nup1Jq5vYwrFuBrS3THVM/view?usp=sharing">
+                   <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/MLPModel.png"
+                   width="75%" height="75%">
+                </a>
+                <br> Multiple Linear Perceptron (MLP) Model </br>
+              </p>
+
+              <p>
+                <br></br>
+                <a href="https://drive.google.com/file/d/17p5fgVgv836Nup1Jq5vYwrFuBrS3THVM/view?usp=sharing">
+                   <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/SaddlePointPredictions.png"
+                   width="100%" height="100%">
+                </a>
+                <br> Saddle Point Results Left-to-Right, Top-to-Bottom: </br>
+                <ul>
+                      <li>Real vs. Predicted Saddle</li>
+                      <li>z-x cross section @ y = 2</li>
+                      <li>z-x cross section @ y = 0</li>
+                      <li>Model Loss Vs. Epochs</li>
+                      <li>Topological Heat Map</li>
+              </ul>
+              </p>
+  </details>
+</div>
+<!--             
             <p>
               <a href="https://drive.google.com/file/d/17p5fgVgv836Nup1Jq5vYwrFuBrS3THVM/view?usp=sharing">
                  <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/AckleyPredictions.png"
@@ -107,8 +120,8 @@ How to Reach me:
       
    
     - d) Autoencoders for compression and denoising of MNIST Handwritten Digits Image Data Set: [Jupyter Notebook](https://github.com/MichaelFerko/Auto-encoders-Compression-Denoising-MNIST-Digits-0-9/blob/main/LAB3-Autoencoders_for_Compression_and_Denoising_final.ipynb) 
-    - e) Classification of CIFAR-10/100 with Convolutional Neural Networks: [Jupyter Notebook](https://github.com/MichaelFerko/Classification-of-CIFAR-10-and-100-with-Convolutional-Neural-Networks/blob/main/Copy%20of%20LAB%204-Classification%20with%20CNN.ipynb)
-</details>
+    - e) Classification of CIFAR-10/100 with Convolutional Neural Networks: [Jupyter Notebook](https://github.com/MichaelFerko/Classification-of-CIFAR-10-and-100-with-Convolutional-Neural-Networks/blob/main/Copy%20of%20LAB%204-Classification%20with%20CNN.ipynb) -->
+
 
 <!-- This is the Pattern Recognition Seciton -->
   - Pattern Recognition Projects:
