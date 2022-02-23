@@ -158,16 +158,24 @@ How to Reach me:
       </ul>
      </p>
      
-   <p>
+   <p align="center">
     <a href="https://drive.google.com/file/d/1i49EBOacHkSxA84ghQZCQ3JSvItULceT/view?usp=sharing">
-    <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/AckleyPredictions.png" width="75%" height="75%">
+    <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/MLPRegressionLoss.png" width="50%" height="50%">
     </a>
-    <br> Model Loss & Model Accuracy</br>
+    <br>Regression MLP Model Loss</br>
+   </p>
+   
+   <p align="center">
+    <a href="https://drive.google.com/file/d/1i49EBOacHkSxA84ghQZCQ3JSvItULceT/view?usp=sharing">
+    <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/RegressionPrediction.png" width="50%" height="50%">
+    </a>
+    <br>Regression MLP Model Loss</br>
    </p>
      
   </details>
   </div>
 
+<!--  Classification of MNIST 70,000 Handwritten Digits 0-9 Image Data Set -->
     
     
    </details>
