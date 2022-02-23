@@ -12,7 +12,14 @@
       - [Orthogonal Frequency Division Multiplexing (OFDM)](https://ieeexplore.ieee.org/document/8052521)
       - [State-of-the-Art DQN C51 Rainbow](https://arxiv.org/abs/1710.02298)
       - [Google Deep Mind's progress in Quantile Regression](https://ojs.aaai.org/index.php/AAAI/article/view/11791)
-
+        
+       <p>
+          The following image works as a link:<br>
+          <a href="https://www.qries.com/">
+             <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/structureOfVehiclularComunicationsNetwork.png"
+             width="45%" height="45%">
+          </a>
+       </p>
         <p align="center">
           <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/structureOfVehiclularComunicationsNetwork.png"
                title="Structure of Vehicular Communications Network"
