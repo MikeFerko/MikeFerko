@@ -31,9 +31,9 @@
                  <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/structureOfVehiclularComunicationsNetwork.png"
                  width="45%" height="45%">
               </a>
-              <br> Structure of Vehiclular Communicaitons Network
+              <br> h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x 
             </p>
-             h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x 
+             
       - 
 
     - b) [Classification of MNIST 70,000 Handwritten Digits 0-9 Image Data Set](https://github.com/MikeFerko/Classification-of-Fashion-MNIST)
