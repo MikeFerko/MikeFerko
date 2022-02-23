@@ -4,7 +4,7 @@
 
 - 💼 My Recent Projects Include: 
 
-  - Research paper [Reinforcement Learning for V2V Communication](https://github.com/MikeFerko/Deep-Reinforcement-Learning-for-V2V-Communication/blob/main/Distributed%20Deep%20Reinforcement%20Learning%20for%20V2V%20Communication.pdf)
+  - Research paper [Reinforcement Learning for V2V Communication](https://github.com/MikeFerko/Deep-Reinforcement-Learning-for-V2V-Communication)
  
     - In which I explore an artifically intelligent form of electronic communications between a vehicle and everything (V2X):
       - [Markov Decision Processeses (MDP)](https://youtu.be/9g32v7bK3Co)
@@ -14,7 +14,7 @@
       - [Google Deep Mind's progress in Quantile Regression](https://ojs.aaai.org/index.php/AAAI/article/view/11791)
         
        <p align="center">
-          <a href="https://www.qries.com/">
+          <a href="https://github.com/MikeFerko/Deep-Reinforcement-Learning-for-V2V-Communication/blob/main/Distributed%20Deep%20Reinforcement%20Learning%20for%20V2V%20Communication.pdf">
              <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/structureOfVehiclularComunicationsNetwork.png"
              width="45%" height="45%">
           </a>
