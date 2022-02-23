@@ -25,7 +25,8 @@
     - a) [Parametric Regression Modeling of House Prices in Taipei Taiwan](https://github.com/MikeFerko/Taipei-Taiwan-Regression-Modeling-of-Housing-Prices)
       - Part1: 
         - Algorithm: Regression with Multilayer Perceptrons (MLP)
-          - 1) Generate a data set with the simple Saddle Point Function: 
+          - 1) Generate a data set with the simple Saddle Point Function
+          - 2) Reshape the generated data to be a tensor input vector (shape will be: sample rows be feature columns)
             <p align="center">
               <a href="https://github.com/MikeFerko/Deep-Reinforcement-Learning-for-V2V-Communication/blob/main/Distributed%20Deep%20Reinforcement%20Learning%20for%20V2V%20Communication.pdf">
                  <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/structureOfVehiclularComunicationsNetwork.png"
