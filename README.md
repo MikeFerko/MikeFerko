@@ -25,17 +25,25 @@
     - a) [Parametric Regression Modeling of House Prices in Taipei Taiwan](https://github.com/MikeFerko/Taipei-Taiwan-Regression-Modeling-of-Housing-Prices)
       - Part1: 
         - Algorithm: Regression with Multilayer Perceptrons (MLP)
-          - 1) Generate a data set with the simple Saddle Point Function
+          - 1) Generate a data set with the simple Saddle Point or the Ackley Function
           - 2) Reshape the generated data to be a tensor input vector (shape will be: sample rows be feature columns)
-            <p align="center">
-              <a href="https://github.com/MikeFerko/Deep-Reinforcement-Learning-for-V2V-Communication/blob/main/Distributed%20Deep%20Reinforcement%20Learning%20for%20V2V%20Communication.pdf">
-                 <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/structureOfVehiclularComunicationsNetwork.png"
-                 width="45%" height="45%">
+            
+            <p>
+              <a href="https://drive.google.com/file/d/17p5fgVgv836Nup1Jq5vYwrFuBrS3THVM/view?usp=sharing">
+                 <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/SaddlePointPredictions.png"
+                 width="100%" height="100%">
               </a>
-              <br> h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x 
+              <br> Saddle Point: h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x 
             </p>
-             
-      - 
+            
+            <p>
+              <a href="https://drive.google.com/file/d/17p5fgVgv836Nup1Jq5vYwrFuBrS3THVM/view?usp=sharing">
+                 <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/AckleyPredictions.png"
+                 width="100%" height="100%">
+              </a>
+              <br> Ackley: h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x 
+            </p>
+
 
     - b) [Classification of MNIST 70,000 Handwritten Digits 0-9 Image Data Set](https://github.com/MikeFerko/Classification-of-Fashion-MNIST)
       - Algorithm: Supervised Categorical Cross Entropy
