@@ -22,8 +22,12 @@
        </p>
 
   - Machine Learning Projects:
-
     - a) [Parametric Regression Modeling of House Prices in Taipei Taiwan](https://github.com/MikeFerko/Taipei-Taiwan-Regression-Modeling-of-Housing-Prices)
+      - Part1: 
+        - Algorithm: Regression with Multilayer Perceptrons (MLP)
+          - 1) Generate a data set with the simple Saddle Point Function: 
+             h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x 
+      - 
 
     - b) [Classification of MNIST 70,000 Handwritten Digits 0-9 Image Data Set](https://github.com/MikeFerko/Classification-of-Fashion-MNIST)
       - Algorithm: Supervised Categorical Cross Entropy
