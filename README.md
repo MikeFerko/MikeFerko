@@ -64,6 +64,7 @@ How to Reach me:
                </ul>
               <li><a href="https://en.wikipedia.org/wiki/Mean_squared_error">Mean Square Error Loss Function</a></li>
             </ul>
+            <li>Create a predicted Saddle point and Ackley Function from the Regression MLP trained Neural Network</li>
             <li>Plot the Results</li>
           </ol>
           <p align="center">
@@ -126,12 +127,36 @@ How to Reach me:
         <li>Regression MLP Machine Learning on Taipei Taiwan Algorithm:</li>
         <ol type="1">
           <li>Load the Real estate valuation data set</li>
-          <li>Train/Test split the data at a ratio of 80/20, respectively</li>
-          <li></li>
-           
+          <li>Independent feature vector containing:</li>
+          <ol type="1" start="2">
+            <li>X2 house age</li>
+            <li>X3 distance to the nearest MRT station</li>
+            <li>X4 number of convenience stores</li>
+            <li>X5 latitude</li>
+            <li>X6 longitude</li>
+          </ol>
+          <li>Train/Test split the data at a ratio of 80:20, respectively</li>
+          <li>Min/Max Scale the dataset with a range of 0 to 1</li>
+          <li>Normalise the scaled features</li>
+          <li>Regression MLP Model Parameters:</li>
+          <ul>
+            <li><a href="https://en.wikipedia.org/wiki/Stochastic_gradient_descent">Stochastic Gradient Descent optimizer</a></li>
+            <ul>
+              <li>Learing Rate = 0.1</li>
+              <li>Exponential Decay Factor = 0</li>
+              <li>Momentum = 0.1</li>
+             </ul>
+            <li><a href="https://en.wikipedia.org/wiki/Mean_squared_error">Mean Square Error Loss Function</a></li>
+          </ul>
+          <li>Create a predicted House Price Prediction of the unit area from the Regression MLP trained Neural Network</li>
+          <li>Plot the Results</li>
         </ol>
       </ul>
      </p>
+     
+   <p>
+  helloo
+   </p>
      
   </details>
   </div>
