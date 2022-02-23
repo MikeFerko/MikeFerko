@@ -26,7 +26,12 @@
       - Part1: 
         - Algorithm: Regression with Multilayer Perceptrons (MLP)
           - 1) Generate a data set with the simple Saddle Point or the Ackley Function
-          - 2) Reshape the generated data to be a tensor input vector (shape will be: sample rows be feature columns)
+            - Saddle Point: z(x,y) = x^2 + y^2
+            - Ackley: 
+          - 2) Add uniform random noise and visualize the 3D meshgrid 
+          - 2) Reshape the generated data to be a tensor input vector (shape will be: sample rows by feature columns)
+          - 3) Create and Train/Test a sequential MLP model
+          - 4) Plot the Results
             
             <p>
               <a href="https://drive.google.com/file/d/17p5fgVgv836Nup1Jq5vYwrFuBrS3THVM/view?usp=sharing">
@@ -41,7 +46,7 @@
                  <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/AckleyPredictions.png"
                  width="100%" height="100%">
               </a>
-              <br> Ackley: h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x 
+              <br>  
             </p>
 
 
