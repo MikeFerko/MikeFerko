@@ -14,18 +14,12 @@
       - [Google Deep Mind's progress in Quantile Regression](https://ojs.aaai.org/index.php/AAAI/article/view/11791)
         
        <p>
-          The following image works as a link:<br>
           <a href="https://www.qries.com/">
              <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/structureOfVehiclularComunicationsNetwork.png"
              width="45%" height="45%">
           </a>
+          <br> Structure of Vehiclular Communicaitons Network
        </p>
-        <p align="center">
-          <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/structureOfVehiclularComunicationsNetwork.png"
-               title="Structure of Vehicular Communications Network"
-               width="45%"
-               height="45%" img/>
-        </p>
 
   - Machine Learning Projects:
 
