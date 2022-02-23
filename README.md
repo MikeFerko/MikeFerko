@@ -24,13 +24,16 @@
     - a) [Parametric Regression Modeling of House Prices in Taipei Taiwan](https://github.com/MikeFerko/Taipei-Taiwan-Regression-Modeling-of-Housing-Prices)
 
     - b) Classification of MNIST Handwritten Digits Image Data Set: [Jupyter Notebook](https://github.com/MichaelFerko/Classification-of-Fashion-MNIST/blob/main/LAB-2-Classification.ipynb) 
-<!-- 
+
 
       <p align="left">
-        <img src="https://github.com/MikeFerko/MikeFerko/blob/main/structureOfVehiclularComunicationsNetwork.png" 
+        <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/encodingHandWrittenDigits.png" 
              width="35%"
              height="35%" img/>
-      </p> -->
+        <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/firstLayerWeightVisualization.png" 
+                   width="35%"
+                   height="35%" img/>
+      </p>
       
     - c) Classification of Fashion MNIST Image Data Set: [Jupyter Notebook](https://github.com/MichaelFerko/Classification-of-Fashion-MNIST/blob/main/Lab%202%20Assignment%20Notebook.ipynb) 
       
