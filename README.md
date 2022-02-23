@@ -27,7 +27,7 @@
         - Algorithm: Regression with Multilayer Perceptrons (MLP)
           - 1) Generate a data set with the simple Saddle Point or the Ackley Function
             - Saddle Point: ![z(x,y) = x^{2} + y^{2}](https://latex.codecogs.com/gif.latex?z%28x%2Cy%29%20%3D%20x%5E%7B2%7D%20&plus;%20y%5E%7B2%7D)
-            - Ackley: z(x,y) = ![-20e^{\frac{1}{5} \sqrt{\frac{1}{2} (x^{2} + y^{2})}} - e^{\frac{1}{2}(cos{(\pi x}) +cos{(\pi y}))}](https://latex.codecogs.com/gif.latex?-20e%5E%7B%5Cfrac%7B1%7D%7B5%7D%20%5Csqrt%7B%5Cfrac%7B1%7D%7B2%7D%20%28x%5E%7B2%7D%20&plus;%20y%5E%7B2%7D%29%7D%7D%20-%20e%5E%7B%5Cfrac%7B1%7D%7B2%7D%28cos%7B%28%5Cpi%20x%7D%29%20&plus;cos%7B%28%5Cpi%20y%7D%29%29%7D)
+            - Ackley: z(x,y) = ![z(x,y) = -20e^{\frac{1}{5} \sqrt{\frac{1}{2} (x^{2} + y^{2})}} - e^{\frac{1}{2}(cos{(\pi x}) +cos{(\pi y}))}](https://latex.codecogs.com/gif.latex?z%28x%2Cy%29%20%3D%20-20e%5E%7B%5Cfrac%7B1%7D%7B5%7D%20%5Csqrt%7B%5Cfrac%7B1%7D%7B2%7D%20%28x%5E%7B2%7D%20&plus;%20y%5E%7B2%7D%29%7D%7D%20-%20e%5E%7B%5Cfrac%7B1%7D%7B2%7D%28cos%7B%28%5Cpi%20x%7D%29%20&plus;cos%7B%28%5Cpi%20y%7D%29%29%7D)
           - 2) Add uniform random noise and visualize the 3D meshgrid 
           - 2) Reshape the generated data to be a tensor input vector (shape will be: sample rows by feature columns)
           - 3) Create and Train/Test a sequential MLP model
