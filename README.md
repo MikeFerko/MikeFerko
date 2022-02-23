@@ -27,12 +27,14 @@
 
 
       <p align="left">
+  
         <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/encodingHandWrittenDigits.png" 
              width="35%"
              height="35%" img/>
+  
         <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/firstLayerWeightVisualization.png" 
-                   width="35%"
-                   height="35%" img/>
+                   width="50%"
+                   height="50%" img/>
       </p>
       
     - c) Classification of Fashion MNIST Image Data Set: [Jupyter Notebook](https://github.com/MichaelFerko/Classification-of-Fashion-MNIST/blob/main/Lab%202%20Assignment%20Notebook.ipynb) 
