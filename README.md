@@ -133,6 +133,8 @@ How to Reach me:
      <br></br>
      <p>
       <ul>
+        <li>Google Coolab Notebook: <a href="https://drive.google.com/file/d/17p5fgVgv836Nup1Jq5vYwrFuBrS3THVM/view?usp=sharing">Jupyter Notebook</a></li>
+        <li>Github Repository: <a href="https://github.com/MikeFerko/Multiple-Linear-Perceptron-Modeling-of-the-Saddle-and-Ackley-Functions">Respository</a></li>
         <li>Regression MLP Machine Learning on Taipei Taiwan Algorithm:</li>
         <ol type="1">
           <li>Load the Real estate valuation data set</li>
