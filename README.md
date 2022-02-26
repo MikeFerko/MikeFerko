@@ -1,6 +1,17 @@
 Hi 👋, I'm Mike! 
-  - Email: mike.w.ferko@gmail.com
-  - Twitter: [@MikeFerko_](https://twitter.com/MikeFerko_)
+------------------
+<a href="https://www.linkedin.com/in/michael-ferko-24811997/">
+  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+</a>
+<a href="https://twitter.com/MikeFerko_">
+  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+</a>
+<a href="mailto:mike.w.ferko@gmail.com">
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+<a href="https://www.instagram.com/michael.ferko/">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
+</a>
 
 💼 My Recent Projects Include: 
 
