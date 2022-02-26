@@ -1,4 +1,4 @@
-Hi 👋, I'm Mike! 
+Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Mike! 
 ------------------
 <a href="https://www.linkedin.com/in/michael-ferko-24811997/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
