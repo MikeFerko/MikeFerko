@@ -1,4 +1,4 @@
-How to Reach me: 
+Hi 👋, I'm Mike! 
   - Email: mike.w.ferko@gmail.com
   - Twitter: [@MikeFerko_](https://twitter.com/MikeFerko_)
 
