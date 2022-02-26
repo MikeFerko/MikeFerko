@@ -195,7 +195,7 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
     <a href="https://drive.google.com/file/d/1i49EBOacHkSxA84ghQZCQ3JSvItULceT/view?usp=sharing">
     <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/RegressionPrediction.png" width="75%" height="75%">
     </a>
-    <br>Regression MLP Predictions</br>
+    <br>Regression MLP Predictions in New Taiwan Dollars (NT$)</br>
    </p>
      
   </details>
