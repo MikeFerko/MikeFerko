@@ -240,6 +240,12 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
             </p>
             <p align="center">
             <a href="https://drive.google.com/file/d/1D7tv0AckARCQMVxbaBTvdb7UxYvrIIPe/view?usp=sharing">
+            <img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/logLossCrossEntropy.png" width="75%" height="75%"></img>
+            </a>
+            <br>Visualization of Log Loss (Cross Entropy)</br>
+            </p>
+            <p align="center">
+            <a href="https://drive.google.com/file/d/1D7tv0AckARCQMVxbaBTvdb7UxYvrIIPe/view?usp=sharing">
             <img src="https://github.com/MikeFerko/Classification-of-MNIST-70k-Handwritten-Digits-0-9-Image-Data-Set/blob/main/LAB-2-Fig2.png" width="50%" height="50%"></img>
             </a>
             <br>Cross Entropy between probability distributions for each Class</br>
@@ -258,7 +264,7 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
               <li>Output Layer = 10 softmax neurons</li>
               <p align="center">
               <a href="https://drive.google.com/file/d/1D7tv0AckARCQMVxbaBTvdb7UxYvrIIPe/view?usp=sharing">
-              <img src="https://github.com/MikeFerko/Classification-of-MNIST-70k-Handwritten-Digits-0-9-Image-Data-Set/blob/main/LAB-2-Fig1.png" width="50%" height="50%"></img>
+              <img src="https://github.com/MikeFerko/Classification-of-MNIST-70k-Handwritten-Digits-0-9-Image-Data-Set/blob/main/LAB-2-Fig1.png" width="75%" height="75%"></img>
               </a>
               <br>Classification Neural Network Architecture</br>
               </p>
@@ -276,12 +282,34 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
           </ul>
   </ul>
 </p>
+<br>7. Show Results: </br>
+<p align="center">
+
+<a href="https://drive.google.com/file/d/1D7tv0AckARCQMVxbaBTvdb7UxYvrIIPe/view?usp=sharing">
+<img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/MNIST_handwritten_Digits_Results.png" width="50%" height="50%"></img>
+</a>
+<br>Visualization of Model Loss and Accuracy (0.1532 and 95.49% Respectively)</br>
+</p>
 
 <p align="center">
 <a href="https://drive.google.com/file/d/1D7tv0AckARCQMVxbaBTvdb7UxYvrIIPe/view?usp=sharing">
-<img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/MNIST%20Handwritten%20Digits%20Results.png" width="50%" height="50%"></img>
+<img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/VisualizationOfFirstLayerWeightsW1.png" width="50%" height="50%"></img>
 </a>
-<br>Visualization of Model Loss and Accuracy ()</br>
+<br>Visualization of First Layer Weights W1 from Neural Network Architecture</br>
+</p>
+
+<p align="center">
+<a href="https://drive.google.com/file/d/1D7tv0AckARCQMVxbaBTvdb7UxYvrIIPe/view?usp=sharing">
+<img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/VisualizationOfSecondLayerWeightsW2.png" width="50%" height="50%"></img>
+</a>
+<br>Visualization of Second Layer Weights W2 from Neural Network Architecture</br>
+</p>
+
+<p align="center">
+<a href="https://drive.google.com/file/d/1D7tv0AckARCQMVxbaBTvdb7UxYvrIIPe/view?usp=sharing">
+<img src="https://github.com/MikeFerko/MikeFerko/blob/main/images/VisualizationOfThirdLayerWeightsW3.png" width="50%" height="50%"></img>
+</a>
+<br>Visualization of Third Layer Weights W3 from Neural Network Architecture</br>
 </p>
 
 
