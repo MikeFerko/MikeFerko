@@ -18,7 +18,7 @@ Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Asse
 
 <!DOCTYPE html>
 <html>
-<!-- This is the V2X Research Seciton -->
+<!--This is the V2X Research Seciton -->
 
 <body>
   <div class = "dropdown-submenu">
